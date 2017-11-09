@@ -13,3 +13,8 @@ splitting up
 as i said:
 > yes
 > no
+
+
+column1 | column2
+-----------------
+b1|b2
