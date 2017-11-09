@@ -1,7 +1,7 @@
 # SQLDB2
 splitting up
-
-    function testMD("hello"){
+   javascript
+   function testMD("hello"){
       Hello!
     }
 
