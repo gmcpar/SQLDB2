@@ -1,4 +1,4 @@
-# SQLDB2
+|# SQLDB2
 splitting up
 
 ```javascript
@@ -16,5 +16,6 @@ as i said:
 
 
 column1 | column2
------------------
+--------|--------
 b1|b2
+
